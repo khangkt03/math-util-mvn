@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package com.khang.mathutil.main;
-
 import com.khang.mathutil.core.MathUtility;
 
 /**
